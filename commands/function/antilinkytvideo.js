@@ -1,4 +1,4 @@
-module.exports = { 
+/*****module.exports = { 
 name: "antilinkytvideo", //By @arifirazzaq2001
 admin: true,
 botAdmin: true,
