@@ -1,4 +1,4 @@
-module.exports = { 
+/*module.exports = { 
 name: "antilinkgroup", //By @arifirazzaq2001 Fixed by Ivanzz`
 admin: true,
 botAdmin: true,
