@@ -1,4 +1,4 @@
-module.exports = { 
+/****module.exports = { 
 name: "antilinkinstagram", //By @arifirazzaq2001
 admin: true,
 botAdmin: true,
@@ -33,4 +33,5 @@ function getGroupAdmin(participants) {
 		i.isAdmin ? admins.push(i.jid) : ''
 	}
 	return admins
-} // Full Fix Cok Jangan Di Edit Lagi! By @arifirazzaq2001
+}***/
+// Full Fix Cok Jangan Di Edit Lagi! By @arifirazzaq2001
