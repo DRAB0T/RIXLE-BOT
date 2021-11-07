@@ -1,4 +1,4 @@
-/*module.exports = { 
+/***module.exports = { 
 name: "antilinkgroup", //By @arifirazzaq2001 Fixed by Ivanzz`
 admin: true,
 botAdmin: true,
@@ -31,4 +31,5 @@ function getGroupAdmin(participants) {
 		i.isAdmin ? admins.push(i.jid) : ''
 	}
 	return admins
-} // Full Fix Cok Jangan Di Edit Lagi! By @arifirazzaq2001
+} ****/
+// Full Fix Cok Jangan Di Edit Lagi! By @arifirazzaq2001
