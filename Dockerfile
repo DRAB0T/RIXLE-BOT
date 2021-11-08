@@ -14,7 +14,7 @@ RUN npm install
 #RUN npm install -g npm-check-updates
 #RUN ncu --upgrade
 #RUN npm install libwebp
-RUN npm install -g npm@latest
+#RUN npm install -g npm@latest
 RUN npm install 
 RUN npm instal pm2 -g
 
